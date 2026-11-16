@@ -1,0 +1,13 @@
+    1 0.000000000      0.0.0.0 → 255.255.255.255 DHCP 327 DHCP Discover - Transaction ID 0x8c579719
+    2 0.000000000     10.0.0.1 → 10.0.0.10    DHCP 344 DHCP Offer    - Transaction ID 0x8c579719
+    3 0.003999887      0.0.0.0 → 255.255.255.255 DHCP 339 DHCP Request  - Transaction ID 0x8c579719
+    4 0.007999775     10.0.0.1 → 10.0.0.10    DHCP 344 DHCP ACK      - Transaction ID 0x8c579719
+
+    Message type: Boot Reply (2)
+    Your (client) IP address: 10.0.0.10
+        DHCP Server Identifier: 10.0.0.1
+        IP Address Lease Time: 10 minutes (600)
+        Subnet Mask: 255.0.0.0
+        Domain Name Server: 192.168.0.1
+        Domain Name Server: 8.8.8.8
+        Router: 10.0.0.1

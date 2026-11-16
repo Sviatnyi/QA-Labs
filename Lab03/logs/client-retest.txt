@@ -1,0 +1,11 @@
+enp0s8           UP             10.0.0.10/8 fe80::3570:3333:96b0:cb8c/64 
+default via 10.0.0.1 dev enp0s8 proto dhcp src 10.0.0.10 metric 20101 
+10.0.0.0/8 dev enp0s8 proto kernel scope link src 10.0.0.10 metric 101 
+PING 10.0.0.1 (10.0.0.1) 56(84) bytes of data.
+64 bytes from 10.0.0.1: icmp_seq=1 ttl=64 time=0.000 ms
+64 bytes from 10.0.0.1: icmp_seq=2 ttl=64 time=0.000 ms
+64 bytes from 10.0.0.1: icmp_seq=3 ttl=64 time=0.000 ms
+
+--- 10.0.0.1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2050ms
+rtt min/avg/max/mdev = 0.000/0.000/0.000/0.000 ms

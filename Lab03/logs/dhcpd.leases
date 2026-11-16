@@ -1,0 +1,63 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.4.3-P1
+
+# authoring-byte-order entry is generated, DO NOT DELETE
+authoring-byte-order little-endian;
+
+server-duid "\000\001\000\0012\215i%\010\000'\033\277m";
+
+lease 10.0.0.10 {
+  starts 1 2026/11/16 07:11:35;
+  ends 1 2026/11/16 07:21:35;
+  cltt 1 2026/11/16 07:11:35;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:6b:79:a5;
+  uid "\001\010\000'ky\245";
+  client-hostname "tymofii";
+}
+lease 10.0.0.10 {
+  starts 1 2026/11/16 07:16:34;
+  ends 1 2026/11/16 07:26:34;
+  cltt 1 2026/11/16 07:16:34;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:6b:79:a5;
+  uid "\001\010\000'ky\245";
+  client-hostname "tymofii";
+}
+lease 10.0.0.10 {
+  starts 1 2026/11/16 07:20:18;
+  ends 1 2026/11/16 07:30:18;
+  cltt 1 2026/11/16 07:20:18;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:6b:79:a5;
+  uid "\001\010\000'ky\245";
+  client-hostname "tymofii";
+}
+lease 10.0.0.10 {
+  starts 1 2026/11/16 07:25:03;
+  ends 1 2026/11/16 07:35:03;
+  cltt 1 2026/11/16 07:25:03;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:6b:79:a5;
+  uid "\001\010\000'ky\245";
+  client-hostname "tymofii";
+}
+lease 10.0.0.10 {
+  starts 1 2026/11/16 07:30:13;
+  ends 1 2026/11/16 07:40:13;
+  cltt 1 2026/11/16 07:30:13;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:6b:79:a5;
+  uid "\001\010\000'ky\245";
+  client-hostname "tymofii";
+}

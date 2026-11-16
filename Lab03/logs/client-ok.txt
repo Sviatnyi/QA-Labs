@@ -1,0 +1,15 @@
+Device 'enp0s8' successfully disconnected.
+Device 'enp0s8' successfully activated with '9414bf63-b703-3550-b6b7-e9100f17640d'.
+enp0s8           UP             10.0.0.10/8 fe80::3570:3333:96b0:cb8c/64 
+default via 192.168.0.1 dev enp0s3 proto dhcp src 192.168.0.204 metric 100 
+default via 10.0.0.1 dev enp0s8 proto dhcp src 10.0.0.10 metric 20101 
+10.0.0.0/8 dev enp0s8 proto kernel scope link src 10.0.0.10 metric 101 
+192.168.0.0/24 dev enp0s3 proto kernel scope link src 192.168.0.204 metric 100 
+PING 10.0.0.1 (10.0.0.1) 56(84) bytes of data.
+64 bytes from 10.0.0.1: icmp_seq=1 ttl=64 time=1.00 ms
+64 bytes from 10.0.0.1: icmp_seq=2 ttl=64 time=0.000 ms
+64 bytes from 10.0.0.1: icmp_seq=3 ttl=64 time=0.000 ms
+
+--- 10.0.0.1 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2841ms
+rtt min/avg/max/mdev = 0.000/0.333/1.000/0.471 ms

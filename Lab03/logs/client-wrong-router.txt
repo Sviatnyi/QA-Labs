@@ -1,0 +1,16 @@
+enp0s8           UP             10.0.0.10/8 fe80::3570:3333:96b0:cb8c/64 
+default via 10.0.0.254 dev enp0s8 proto dhcp src 10.0.0.10 metric 20101 
+10.0.0.0/8 dev enp0s8 proto kernel scope link src 10.0.0.10 metric 101 
+PING 10.0.0.254 (10.0.0.254) 56(84) bytes of data.
+From 10.0.0.10 icmp_seq=1 Destination Host Unreachable
+From 10.0.0.10 icmp_seq=2 Destination Host Unreachable
+From 10.0.0.10 icmp_seq=3 Destination Host Unreachable
+
+--- 10.0.0.254 ping statistics ---
+3 packets transmitted, 0 received, +3 errors, 100% packet loss, time 2088ms
+pipe 3
+PING 8.8.8.8 (8.8.8.8) from 10.0.0.10 enp0s8: 56(84) bytes of data.
+
+--- 8.8.8.8 ping statistics ---
+2 packets transmitted, 0 received, 100% packet loss, time 1018ms
+

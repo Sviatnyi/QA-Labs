@@ -1,0 +1,2 @@
+    Your (client) IP address: 10.0.0.10
+        Router: 10.0.0.254

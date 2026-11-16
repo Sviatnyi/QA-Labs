@@ -1,0 +1,183 @@
+Started isc-dhcp-server.service - ISC DHCP IPv4 server.
+Internet Systems Consortium DHCP Server 4.4.3-P1
+Internet Systems Consortium DHCP Server 4.4.3-P1
+Copyright 2004-2022 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+Copyright 2004-2022 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+Config file: /etc/dhcp/dhcpd.conf
+Config file: /etc/dhcp/dhcpd.conf
+Database file: /var/lib/dhcp/dhcpd.leases
+PID file: /run/dhcp-server/dhcpd.pid
+Wrote 0 leases to leases file.
+Database file: /var/lib/dhcp/dhcpd.leases
+PID file: /run/dhcp-server/dhcpd.pid
+Wrote 0 leases to leases file.
+
+No subnet declaration for enp0s8 (no IPv4 addresses).
+** Ignoring requests on enp0s8.  If this is not what
+   you want, please write a subnet declaration
+   in your dhcpd.conf file for the network segment
+   to which interface enp0s8 is attached. **
+No subnet declaration for enp0s3 (192.168.0.203).
+** Ignoring requests on enp0s3.  If this is not what
+   you want, please write a subnet declaration
+   in your dhcpd.conf file for the network segment
+   to which interface enp0s3 is attached. **
+No subnet declaration for enp0s8 (no IPv4 addresses).
+Not configured to listen on any interfaces!
+If you think you have received this message due to a bug rather
+than a configuration issue please read the section on submitting
+bugs on either our web page at www.isc.org or in the README file
+before submitting a bug.  These pages explain the proper
+process and the information we find helpful for debugging.
+exiting.
+** Ignoring requests on enp0s8.  If this is not what
+   you want, please write a subnet declaration
+   in your dhcpd.conf file for the network segment
+   to which interface enp0s8 is attached. **
+
+
+No subnet declaration for enp0s3 (192.168.0.203).
+** Ignoring requests on enp0s3.  If this is not what
+   you want, please write a subnet declaration
+   in your dhcpd.conf file for the network segment
+   to which interface enp0s3 is attached. **
+
+
+Not configured to listen on any interfaces!
+
+If you think you have received this message due to a bug rather
+than a configuration issue please read the section on submitting
+bugs on either our web page at www.isc.org or in the README file
+before submitting a bug.  These pages explain the proper
+process and the information we find helpful for debugging.
+
+isc-dhcp-server.service: Main process exited, code=exited, status=1/FAILURE
+exiting.
+isc-dhcp-server.service: Failed with result 'exit-code'.
+Started isc-dhcp-server.service - ISC DHCP IPv4 server.
+Internet Systems Consortium DHCP Server 4.4.3-P1
+Copyright 2004-2022 Internet Systems Consortium.
+Internet Systems Consortium DHCP Server 4.4.3-P1
+Copyright 2004-2022 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+Config file: /etc/dhcp/dhcpd.conf
+Config file: /etc/dhcp/dhcpd.conf
+Database file: /var/lib/dhcp/dhcpd.leases
+PID file: /run/dhcp-server/dhcpd.pid
+Wrote 0 leases to leases file.
+Database file: /var/lib/dhcp/dhcpd.leases
+PID file: /run/dhcp-server/dhcpd.pid
+Wrote 0 leases to leases file.
+Listening on LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Listening on LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   Socket/fallback/fallback-net
+Sending on   LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   Socket/fallback/fallback-net
+Server starting service.
+DHCPDISCOVER from 08:00:27:6b:79:a5 via enp0s8
+DHCPOFFER on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 (10.0.0.1) from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+reuse_lease: lease age 29 (secs) under 25% threshold, reply with unaltered, existing lease for 10.0.0.10
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPDISCOVER from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPOFFER on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 (10.0.0.1) from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+Stopping isc-dhcp-server.service - ISC DHCP IPv4 server...
+isc-dhcp-server.service: Deactivated successfully.
+Stopped isc-dhcp-server.service - ISC DHCP IPv4 server.
+Started isc-dhcp-server.service - ISC DHCP IPv4 server.
+Internet Systems Consortium DHCP Server 4.4.3-P1
+Internet Systems Consortium DHCP Server 4.4.3-P1
+Copyright 2004-2022 Internet Systems Consortium.
+Copyright 2004-2022 Internet Systems Consortium.
+All rights reserved.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+For info, please visit https://www.isc.org/software/dhcp/
+Config file: /etc/dhcp/dhcpd.conf
+Config file: /etc/dhcp/dhcpd.conf
+Database file: /var/lib/dhcp/dhcpd.leases
+PID file: /run/dhcp-server/dhcpd.pid
+Database file: /var/lib/dhcp/dhcpd.leases
+Wrote 1 leases to leases file.
+PID file: /run/dhcp-server/dhcpd.pid
+Wrote 1 leases to leases file.
+Listening on LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Listening on LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   Socket/fallback/fallback-net
+Sending on   Socket/fallback/fallback-net
+Server starting service.
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+Stopping isc-dhcp-server.service - ISC DHCP IPv4 server...
+isc-dhcp-server.service: Deactivated successfully.
+Stopped isc-dhcp-server.service - ISC DHCP IPv4 server.
+Started isc-dhcp-server.service - ISC DHCP IPv4 server.
+Internet Systems Consortium DHCP Server 4.4.3-P1
+Internet Systems Consortium DHCP Server 4.4.3-P1
+Copyright 2004-2022 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+Copyright 2004-2022 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+Config file: /etc/dhcp/dhcpd.conf
+Config file: /etc/dhcp/dhcpd.conf
+Database file: /var/lib/dhcp/dhcpd.leases
+PID file: /run/dhcp-server/dhcpd.pid
+Wrote 1 leases to leases file.
+Database file: /var/lib/dhcp/dhcpd.leases
+PID file: /run/dhcp-server/dhcpd.pid
+Wrote 1 leases to leases file.
+Listening on LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Listening on LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   Socket/fallback/fallback-net
+Sending on   LPF/enp0s8/08:00:27:1b:bf:6d/10.0.0.0/8
+Sending on   Socket/fallback/fallback-net
+Server starting service.
+reuse_lease: lease age 140 (secs) under 25% threshold, reply with unaltered, existing lease for 10.0.0.10
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPDISCOVER from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPOFFER on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 (10.0.0.1) from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+reuse_lease: lease age 145 (secs) under 25% threshold, reply with unaltered, existing lease for 10.0.0.10
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPREQUEST for 10.0.0.10 from 08:00:27:6b:79:a5 (tymofii) via enp0s8
+DHCPACK on 10.0.0.10 to 08:00:27:6b:79:a5 (tymofii) via enp0s8
