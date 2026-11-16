@@ -1,0 +1,4 @@
+    1 0.000000000    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa888, seq=1/256, ttl=64
+    2 1.273963341    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa888, seq=2/512, ttl=64
+    3 2.308933560    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa888, seq=3/768, ttl=64
+    4 3.576897075    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa888, seq=4/1024, ttl=64

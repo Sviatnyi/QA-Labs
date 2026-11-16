@@ -1,0 +1,14 @@
+    1 0.000000000    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa884, seq=1/256, ttl=64
+    2 0.021999367      8.8.8.8 → 10.0.0.10    ICMP 98 Echo (ping) reply    id=0xa884, seq=1/256, ttl=119 (request in 1)
+    3 1.771949013    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa884, seq=2/512, ttl=64
+    4 1.793948380      8.8.8.8 → 10.0.0.10    ICMP 98 Echo (ping) reply    id=0xa884, seq=2/512, ttl=119 (request in 3)
+    5 2.873917304    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa884, seq=3/768, ttl=64
+    6 2.891916786      8.8.8.8 → 10.0.0.10    ICMP 98 Echo (ping) reply    id=0xa884, seq=3/768, ttl=119 (request in 5)
+    7 13.603608564    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa884, seq=4/1024, ttl=64
+    8 13.624607959      8.8.8.8 → 10.0.0.10    ICMP 98 Echo (ping) reply    id=0xa884, seq=4/1024, ttl=119 (request in 7)
+    9 13.697605859    10.0.0.10 → 142.250.109.100 ICMP 98 Echo (ping) request  id=0xa885, seq=1/256, ttl=64
+   10 13.730604909 142.250.109.100 → 10.0.0.10    ICMP 98 Echo (ping) reply    id=0xa885, seq=1/256, ttl=110 (request in 9)
+   11 15.227561834    10.0.0.10 → 142.250.109.100 ICMP 98 Echo (ping) request  id=0xa885, seq=2/512, ttl=64
+   12 15.258560942 142.250.109.100 → 10.0.0.10    ICMP 98 Echo (ping) reply    id=0xa885, seq=2/512, ttl=110 (request in 11)
+   13 16.326530213    10.0.0.10 → 142.250.109.100 ICMP 98 Echo (ping) request  id=0xa885, seq=3/768, ttl=64
+   14 16.357529322 142.250.109.100 → 10.0.0.10    ICMP 98 Echo (ping) reply    id=0xa885, seq=3/768, ttl=110 (request in 13)

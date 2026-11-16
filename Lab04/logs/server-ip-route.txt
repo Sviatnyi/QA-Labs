@@ -1,0 +1,6 @@
+lo               UNKNOWN        127.0.0.1/8 ::1/128 
+enp0s3           UP             192.168.0.203/24 fe80::a00:27ff:fece:5e2b/64 
+enp0s8           UP             10.0.0.1/8 
+default via 192.168.0.1 dev enp0s3 
+10.0.0.0/8 dev enp0s8 proto kernel scope link src 10.0.0.1 
+192.168.0.0/24 dev enp0s3 proto kernel scope link src 192.168.0.203 

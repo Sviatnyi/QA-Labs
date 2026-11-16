@@ -1,0 +1,13 @@
+    1 0.000000000     10.0.0.1 → 10.0.0.10    ICMP 102 Destination unreachable (Network unreachable)
+    2 7.239791683    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa883, seq=1/256, ttl=64
+    3 7.239791683     10.0.0.1 → 10.0.0.10    ICMP 126 Destination unreachable (Network unreachable)
+    4 8.368759197    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa883, seq=2/512, ttl=64
+    5 9.463727690    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa883, seq=3/768, ttl=64
+    6 10.498697909    10.0.0.10 → 8.8.8.8      ICMP 98 Echo (ping) request  id=0xa883, seq=4/1024, ttl=64
+    7 14.295588654     10.0.0.1 → 10.0.0.10    ICMP 109 Destination unreachable (Network unreachable)
+    8 15.703548141     10.0.0.1 → 10.0.0.10    ICMP 126 Destination unreachable (Network unreachable)
+    9 19.967425450     10.0.0.1 → 10.0.0.10    ICMP 106 Destination unreachable (Network unreachable)
+   10 19.968425422     10.0.0.1 → 10.0.0.10    ICMP 109 Destination unreachable (Network unreachable)
+   11 22.572350495     10.0.0.1 → 10.0.0.10    ICMP 102 Destination unreachable (Network unreachable)
+   12 29.578148907     10.0.0.1 → 10.0.0.10    ICMP 102 Destination unreachable (Network unreachable)
+   13 29.579148878     10.0.0.1 → 10.0.0.10    ICMP 106 Destination unreachable (Network unreachable)

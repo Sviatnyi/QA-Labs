@@ -1,0 +1,2 @@
+Chain POSTROUTING (policy ACCEPT 15 packets, 1135 bytes)
+ pkts bytes target     prot opt in     out     source               destination         

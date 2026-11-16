@@ -1,0 +1,16 @@
+Nov 16 10:14:20 tymofii NetworkManager[1391]: <info>  [1794824060.5277] manager: (enp0s3): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Nov 16 10:14:20 tymofii NetworkManager[1391]: <info>  [1794824060.5277] device (enp0s3): state change: unmanaged -> unavailable (reason 'managed', managed-type: 'external')
+Nov 16 10:14:26 tymofii NetworkManager[1391]: <info>  [1794824066.9817] device (enp0s3): carrier: link connected
+Nov 16 10:14:26 tymofii NetworkManager[1391]: <info>  [1794824066.9827] device (enp0s3): state change: unavailable -> disconnected (reason 'carrier-changed', managed-type: 'full')
+Nov 16 10:14:27 tymofii NetworkManager[1391]: <info>  [1794824066.9997] policy: auto-activating connection 'netplan-enp0s3' (1eef7e45-3b9d-3043-bee3-fc5925c90273)
+Nov 16 10:14:27 tymofii NetworkManager[1391]: <info>  [1794824066.9997] device (enp0s3): Activation: starting connection 'netplan-enp0s3' (1eef7e45-3b9d-3043-bee3-fc5925c90273)
+Nov 16 10:14:27 tymofii NetworkManager[1391]: <info>  [1794824066.9997] device (enp0s3): state change: disconnected -> prepare (reason 'none', managed-type: 'full')
+Nov 16 10:14:27 tymofii NetworkManager[1391]: <info>  [1794824066.9997] device (enp0s3): state change: prepare -> config (reason 'none', managed-type: 'full')
+Nov 16 10:14:27 tymofii NetworkManager[1391]: <info>  [1794824067.0177] device (enp0s3): state change: config -> ip-config (reason 'none', managed-type: 'full')
+Nov 16 10:14:27 tymofii NetworkManager[1391]: <info>  [1794824067.0258] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+Nov 16 10:14:27 tymofii NetworkManager[1391]: <info>  [1794824067.2469] dhcp4 (enp0s3): state changed new lease, address=192.168.0.203, acd pending
+Nov 16 10:44:35 tymofii NetworkManager[1391]: <info>  [1794825875.4867] device (enp0s3): state change: ip-config -> unmanaged (reason 'unmanaged-user-explicit', managed-type: 'removed')
+Nov 16 10:44:35 tymofii NetworkManager[1391]: <info>  [1794825875.4957] dhcp4 (enp0s3): canceled DHCP transaction
+Nov 16 10:44:35 tymofii NetworkManager[1391]: <info>  [1794825875.4957] dhcp4 (enp0s3): activation: beginning transaction (timeout in 45 seconds)
+Nov 16 10:44:35 tymofii NetworkManager[1391]: <info>  [1794825875.4957] dhcp4 (enp0s3): state changed no lease
+Nov 16 10:44:35 tymofii NetworkManager[1391]: <info>  [1794825875.4957] audit: op="device-managed" interface="enp0s3" ifindex=2 args="false" pid=4661 uid=0 result="success"
