@@ -1,0 +1,31 @@
+"./plotTCP.gpi" line 6: warning: Skipping data file with no valid points
+WARNING: Plotting with 'unknown' terminal.
+No output will be generated. Please select a terminal with 'set terminal'.
+"./plotTCP.gpi" line 7: undefined variable: mouse
+
+exit=1
+"plotTCP.gpi" line 6: warning: Skipping data file with no valid points
+                                                                                          
+     3.8 +----------------------------------------------------------------------------+   
+         |            +    #       +            +           +            +            |   
+     3.6 |-+               ##                                       10.0.0.10 #######-|   
+         |              #  ##                                                         |   
+     3.4 |-+            ### #       ##             #  #                            #+-|   
+         |            # ###  #     #  #   #        ## #     #        #  #        # ## |   
+     3.2 |-+          ##  #  #    #   # # #        ### #  # ###  #  # ## #       # ##-|   
+         |           # #      ## #     ####     #  # # # # #   ## # #    #   ## # #  #|   
+       3 |-+           #      # ##     #   #   # ##     ##         #      #  # ## # +#|   
+     2.8 |-+                    #          #  #   #     #                 #  #      +-|   
+         |                                 #  #   #                       # #         |   
+     2.6 |-+                               #  #                            ##       +-|   
+         |                                 #  #                                       |   
+     2.4 |-+                               # #                                      +-|   
+         |                                  ##                                        |   
+     2.2 |-+                                ##                                      +-|   
+         |            +            +        ##  +           +            +            |   
+       2 +----------------------------------------------------------------------------+   
+         0            10           20           30          40           50           60  
+                                           Time, sec                                      
+                                                                                          
+"plotTCP.gpi" line 7: undefined variable: mouse
+
