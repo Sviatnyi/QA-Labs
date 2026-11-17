@@ -1,0 +1,18 @@
+============================= test session starts ==============================
+platform linux -- Python 3.14.4, pytest-9.0.2, pluggy-1.6.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/tymofii/lab7/part2
+plugins: typeguard-4.4.4
+collecting ... collected 1 item
+
+iperf_test.py::TestSuite::test_iperf_client_connection FAILED            [100%]
+
+=================================== FAILURES ===================================
+____________________ TestSuite.test_iperf_client_connection ____________________
+iperf_test.py:23: in test_iperf_client_connection
+    assert value['Bitrate'] > MIN_BITRATE, \
+E   AssertionError: 0.00-1.00: Bitrate 3167.0 Mbit/s <= 5000.0 Mbit/s
+E   assert 3167.0 > 5000.0
+=========================== short test summary info ============================
+FAILED iperf_test.py::TestSuite::test_iperf_client_connection - AssertionErro...
+============================== 1 failed in 11.85s ==============================

@@ -1,0 +1,11 @@
+Інтервалів: 10; умова: Transfer > 2 MB і Bitrate > 20 Mbit/s
+{'Interval': '0.00-1.00', 'Transfer': 323.0, 'Bitrate': 2706.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '1.00-2.00', 'Transfer': 329.0, 'Bitrate': 2759.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '2.00-3.00', 'Transfer': 401.0, 'Bitrate': 3367.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '3.00-4.00', 'Transfer': 339.0, 'Bitrate': 2842.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '4.00-5.00', 'Transfer': 371.0, 'Bitrate': 3110.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '5.00-6.00', 'Transfer': 542.0, 'Bitrate': 4548.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '6.00-7.00', 'Transfer': 359.0, 'Bitrate': 3014.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '7.00-8.00', 'Transfer': 185.0, 'Bitrate': 1550.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '8.00-9.00', 'Transfer': 511.0, 'Bitrate': 4284.0, 'Retr': 0.0, 'Cwnd': 0.0}
+{'Interval': '9.00-10.00', 'Transfer': 322.0, 'Bitrate': 2699.0, 'Retr': 0.0, 'Cwnd': 0.0}

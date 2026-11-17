@@ -1,0 +1,10 @@
+============================= test session starts ==============================
+platform linux -- Python 3.14.4, pytest-9.0.2, pluggy-1.6.0 -- /usr/bin/python3
+cachedir: .pytest_cache
+rootdir: /home/tymofii/lab7/part2
+plugins: typeguard-4.4.4
+collecting ... collected 1 item
+
+iperf_test.py::TestSuite::test_iperf_client_connection PASSED            [100%]
+
+============================== 1 passed in 11.92s ==============================
