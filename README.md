@@ -9,6 +9,7 @@
 | 3 | Протокол DHCP, налаштування `isc-dhcp-server`, defect report | [Lab03](Lab03/) |
 | 4 | NAT за допомогою `iptables`, траблшутінг мережі, Test Plan і defect reports | [Lab04](Lab04/) |
 | 5 | Протоколи TCP/UDP, iperf, тестування навантаження, Test Plan і defect reports | [Lab05](Lab05/) |
+| 6 | Модель OSI, інкапсуляція, сеанси HTTP і FTP, Test Plan і defect reports | [Lab06](Lab06/) |
 
 ## Структура
 

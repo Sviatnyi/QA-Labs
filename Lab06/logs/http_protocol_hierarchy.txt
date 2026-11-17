@@ -1,0 +1,21 @@
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+frame                                    frames:8030 bytes:7447057
+  eth                                    frames:8030 bytes:7447057
+    arp                                  frames:16 bytes:906
+    ip                                   frames:8014 bytes:7446151
+      tcp                                frames:7906 bytes:7434016
+        tls                              frames:2134 bytes:3415600
+          tls                            frames:16 bytes:2322
+        http                             frames:10 bytes:3789
+          data-text-lines                frames:5 bytes:1753
+      udp                                frames:104 bytes:11895
+        mdns                             frames:12 bytes:1284
+        ntp                              frames:40 bytes:3600
+        dhcp                             frames:2 bytes:687
+        dns                              frames:50 bytes:6324
+      igmp                               frames:4 bytes:240
+===================================================================

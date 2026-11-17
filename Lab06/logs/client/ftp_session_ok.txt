@@ -1,0 +1,16 @@
+Connected to 10.0.0.1.
+220 (vsFTPd 3.0.5)
+331 Please specify the password.
+230 Login successful.
+Remote system type is UNIX.
+Using binary mode to transfer files.
+229 Entering Extended Passive Mode (|||62490|)
+150 Here comes the directory listing.
+-rw-r--r--    1 0        0              41 Nov 17 07:44 readme.txt
+226 Directory send OK.
+local: /tmp/readme.txt remote: readme.txt
+229 Entering Extended Passive Mode (|||8938|)
+150 Opening BINARY mode data connection for readme.txt (41 bytes).
+226 Transfer complete.
+41 bytes received in 00:00 (8.00 KiB/s)
+221 Goodbye.
